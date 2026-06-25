@@ -1,0 +1,7 @@
+.env
+chroma_db_ollama/
+__pycache__/
+*.py[cod]
+.agents/
+.codex/
+eval/report_*.xlsx

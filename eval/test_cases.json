@@ -1,0 +1,102 @@
+[
+    {
+        "topic": "AI 短视频创作全能助手 (VideoGen AI)",
+        "tone": "干货科普风",
+        "ground_truth_facts": "4K高清视频，500+虚拟人，Flow-Motion渲染引擎快300%，月费99元，首月免费。"
+    },
+    {
+        "topic": "一人企业 AI 数字化办公套件 (Solo-SaaS Pro)",
+        "tone": "职场进阶风",
+        "ground_truth_facts": "集成AI财务/获客/日程，私有化部署，Webhook联动2000+应用，送《一人企业年入百万成长路径》。"
+    },
+    {
+        "topic": "全自动闲鱼/小红书获客脚本 V3.0",
+        "tone": "低调实战风",
+        "ground_truth_facts": "底层协议模拟非UI录制，语义分析过滤，单机挂载50个账号，首年599元次年199元。"
+    },
+    {
+        "topic": "极客磁吸透明充电宝 (CyberCharge)",
+        "tone": "数码评测风",
+        "ground_truth_facts": "10000mAh聚合物，15W无线+22.5W有线，透明外壳0.96寸数显，兼容MagSafe，首发149元。"
+    },
+    {
+        "topic": "轻量级桌面协作机械臂 V2.0",
+        "tone": "极客硬核风",
+        "ground_truth_facts": "航空级铝合金重1.5kg，精度0.05mm，图形化编程，内置5000mAh电池，售价1999元。"
+    },
+    {
+        "topic": "小红书爆款文案自动化引擎 (CopyMaster AI)",
+        "tone": "闺蜜种草风",
+        "ground_truth_facts": "100+爆款模板，DeepSeek/Qwen双模型，RAG防幻觉，季度卡128元不满意7天退款。"
+    },
+    {
+        "topic": "智能人体工学升降桌 (Ergo-Focus)",
+        "tone": "生活好物风",
+        "ground_truth_facts": "升降60cm-125cm，E0级环保实木复合板承重120kg，电机质保5年。"
+    },
+    {
+        "topic": "抖音无人直播场控机器人 (LiveBot Pro)",
+        "tone": "商业变现风",
+        "ground_truth_facts": "自动回复弹幕感谢礼物，音色克隆还原度95%，终身授权899元绑单机。"
+    },
+    {
+        "topic": "超级个体效率管理 Notion 模板 (LifeOS 2.0)",
+        "tone": "自我提升风",
+        "ground_truth_facts": "OKR/项目/财务/笔记4大模块，PARA方法论，买断制49元免费更新。"
+    },
+    {
+        "topic": "AI 客服数字员工 (ChatSupport)",
+        "tone": "企业服务风",
+        "ground_truth_facts": "私有PDF/Word训练，支持多语言自动翻译，接入微信公众号，基础版199元/月含10万次。"
+    },
+    {
+        "topic": "便携式折叠双屏显示器 (DualScreen Max)",
+        "tone": "移动办公风",
+        "ground_truth_facts": "两块15.6英寸1080P，Type-C一线连带反向充电，重1.2kg，日常价1299元。"
+    },
+    {
+        "topic": "自媒体全网数据监控大屏 (DataInsight)",
+        "tone": "运营干货风",
+        "ground_truth_facts": "同时绑定10个平台，实时抓取转化率，竞品日更监测，企业版年费3999元。"
+    },
+    {
+        "topic": "AI 爆款短剧剧本生成器 (DramaScript)",
+        "tone": "网感娱乐风",
+        "ground_truth_facts": "霸总/赘婿/复仇数据库，一键100集反转大纲，单次9.9元包月299元。"
+    },
+    {
+        "topic": "极简无代码建站工具 (WebBuilder EZ)",
+        "tone": "独立开发风",
+        "ground_truth_facts": "拖拽式操作，200+模板，自带SSL和CDN，SEO引擎，个人版99元/年。"
+    },
+    {
+        "topic": "智能颈椎热敷按摩仪 (NeckCare+)",
+        "tone": "养生关怀风",
+        "ground_truth_facts": "TENS+EMS脉冲，42℃热敷，重95g，连用7天，售价299元送凝胶。"
+    },
+    {
+        "topic": "朋友圈私域成交话术库 (SalesTalk Pro)",
+        "tone": "销售销冠风",
+        "ground_truth_facts": "500+真实案例，破冰/需求/异议/逼单模板，19.9元电子版。"
+    },
+    {
+        "topic": "跨境电商自动选品插件 (AliHunter)",
+        "tone": "跨境出海风",
+        "ground_truth_facts": "分析速卖通亚马逊销量，抓取隐藏底价，标记利润大于50%产品，29美金/月。"
+    },
+    {
+        "topic": "沉浸式番茄钟降噪耳机 (FocusPods)",
+        "tone": "沉浸学习风",
+        "ground_truth_facts": "40dB深度降噪，10种白噪音，轻触左耳25分钟倒计时，399元免费刻字。"
+    },
+    {
+        "topic": "AI 简历优化大师 (ResumePro)",
+        "tone": "求职面试风",
+        "ground_truth_facts": "STAR法则重写，匹配大厂JD关键词，单次15元含3次人工复审。"
+    },
+    {
+        "topic": "自动化账单报税机器人 (TaxBot)",
+        "tone": "高效工具风",
+        "ground_truth_facts": "识别发票提取金额税号，生成税务局标准报表，错漏预警，年费899元。"
+    }
+]
